@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  width: 681px;
+  margin: 100px auto;
+}
+
+.displayed__photo {
+  width: 640px;
+  height: 480px;
+  border: 1px solid #000;
+}
+
+
+
+.mystyle {
+  width: 640px;
+  height: 480px;
+}
